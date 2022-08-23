@@ -6,6 +6,9 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
 
+/**
+ * @Author Chaitanya Kumar
+ */
 @Entity
 public class Employee {
 

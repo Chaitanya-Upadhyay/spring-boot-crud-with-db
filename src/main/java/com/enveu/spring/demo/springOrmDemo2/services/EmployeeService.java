@@ -6,6 +6,10 @@ import com.enveu.spring.demo.springOrmDemo2.entity.Employee;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * @Author Chaitanya Kumar
+ */
+
 public interface EmployeeService {
 
      List<Employee> getEmp();
